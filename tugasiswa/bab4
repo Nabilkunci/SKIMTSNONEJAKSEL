@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BAB 4: Kearifan Lokal dan Pengaruhnya</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800">
+
+  <!-- Container -->
+  <div class="container mx-auto px-4 py-8 space-y-10">
+
+    <!-- Title Section -->
+    <div class="bg-gradient-to-r from-indigo-400 to-indigo-600 text-white rounded-lg shadow-lg p-6">
+      <h1 class="text-3xl font-bold mb-4">
+        <i class="fa-solid fa-flag-checkered mr-2"></i> BAB 4: Kearifan Lokal dan Pengaruhnya
+      </h1>
+      <p class="text-lg">
+        Kearifan lokal merupakan warisan budaya yang memiliki pengaruh besar dalam membentuk karakter dan kehidupan sosial masyarakat. Melalui pemahaman kearifan lokal, kita dapat menjaga keberagaman dan kelestarian budaya di Indonesia. Mari kita pelajari lebih lanjut tentang kearifan lokal dan dampaknya terhadap kehidupan sehari-hari!
+      </p>
+    </div>
+
+    <!-- Pendalaman Materi Section -->
+    <div class="bg-white rounded-lg shadow-lg p-6">
+      <h2 class="text-2xl font-bold text-indigo-800 mb-4">
+        <i class="fa-solid fa-play-circle mr-2"></i> Pendalaman Materi
+      </h2>
+      <p class="text-gray-600 mb-4">
+        Tonton video berikut untuk memahami lebih dalam tentang pentingnya kearifan lokal dan bagaimana nilai-nilai tersebut tetap relevan di era modern.
+      </p>
+      <div class="aspect-w-16 aspect-h-9 mb-4">
+        <iframe class="rounded-lg" src="https://www.youtube.com/embed/example_video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <!-- Tugas Section -->
+    <div class="bg-white rounded-lg shadow-lg p-6 space-y-6">
+      <h2 class="text-2xl font-bold text-indigo-800 mb-4">
+        <i class="fa-solid fa-clipboard-list mr-2"></i> Tugas BAB 4
+      </h2>
+
+      <!-- Tugas Visual -->
+      <div class="p-4 bg-gray-100 rounded-lg shadow-md">
+        <h3 class="text-xl font-bold text-indigo-600 mb-2">Tugas 1: Buat Desain Kearifan Lokal</h3>
+        <p class="text-gray-600 mb-4">
+          Buat desain visual yang menggambarkan kearifan lokal yang ada di daerahmu menggunakan Canva. Pilih budaya atau tradisi lokal yang ingin kamu angkat dan presentasikan dalam desain.
+        </p>
+        <a href="/kirim-jawaban/tugas-canva" 
+           class="inline-flex items-center bg-indigo-600 text-white px-6 py-2 rounded-full hover:bg-indigo-500 transition">
+          <i class="fa-solid fa-upload mr-2"></i> Kirim Desain Kearifan Lokal
+        </a>
+      </div>
+
+      <!-- Tugas Individu -->
+      <div class="p-4 bg-gray-100 rounded-lg shadow-md">
+        <h3 class="text-xl font-bold text-indigo-600 mb-2">Tugas 2: Individu</h3>
+        <p class="text-gray-600 mb-4">
+          Jelaskan dalam esai pendek mengenai pentingnya kearifan lokal dalam mempertahankan identitas budaya Indonesia dan pengaruhnya terhadap perkembangan sosial.
+        </p>
+        <a href="/kirim-jawaban/tugas-individu" 
+           class="inline-flex items-center bg-indigo-600 text-white px-6 py-2 rounded-full hover:bg-indigo-500 transition">
+          <i class="fa-solid fa-upload mr-2"></i> Kirim Jawaban Individu
+        </a>
+      </div>
+
+      <!-- Tugas Kelompok -->
+      <div class="p-4 bg-gray-100 rounded-lg shadow-md">
+        <h3 class="text-xl font-bold text-indigo-600 mb-2">Tugas 3: Kelompok</h3>
+        <p class="text-gray-600 mb-4">
+          Diskusikan dalam kelompok mengenai bagaimana kearifan lokal berperan dalam membentuk pola hidup masyarakat dan kontribusinya dalam pelestarian alam, kemudian buat laporan kelompok.
+        </p>
+        <a href="/kirim-jawaban/tugas-kelompok" 
+           class="inline-flex items-center bg-indigo-600 text-white px-6 py-2 rounded-full hover:bg-indigo-500 transition">
+          <i class="fa-solid fa-upload mr-2"></i> Kirim Laporan Kelompok
+        </a>
+      </div>
+    </div>
+
+    <!-- Additonal Section (Optional) -->
+    <div class="bg-white rounded-lg shadow-lg p-6 mt-10">
+      <h2 class="text-2xl font-bold text-indigo-800 mb-4">
+        <i class="fa-solid fa-info-circle mr-2"></i> Informasi Tambahan
+      </h2>
+      <p class="text-gray-600 mb-4">
+        Kearifan lokal adalah kekayaan budaya yang sangat penting untuk dipelihara. Melalui generasi muda, kita dapat memastikan bahwa nilai-nilai kearifan lokal tetap relevan dan dapat diwariskan kepada generasi mendatang.
+      </p>
+    </div>
+
+  </div>
+<footer class="bg-gradient-to-r from-indigo-400 to-indigo-600 text-gray-100 py-10  mt-16">
+<div class="max-w-6xl mx-auto px-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+  <!-- Logo & Deskripsi -->
+  <div class="space-y-4 text-center lg:text-left">
+    <h1 class="text-2xl font-bold text-yellow-400 uppercase">Sejarah Kebudayaan Islam</h1>
+    <p class="text-sm">
+      Menggali warisan sejarah dan kebudayaan Islam untuk membangun karakter dan wawasan generasi Islami.
+    </p>
+    <p class="italic text-sm text-yellow-200">
+      “إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ” <br>
+      (Sungguh, Allah mencintai orang-orang yang berbuat kebaikan). – QS Al-Baqarah: 195
+    </p>
+  </div>
+
+  <!-- Tautan Materi -->
+  <div class="space-y-6 text-center lg:text-left">
+    <h2 class="text-xl font-semibold text-yellow-400">Tautan Materi</h2>
+    <div class="grid grid-cols-2 gap-4">
+      <div>
+        <h3 class="text-lg font-medium text-gray-200">Semester 1</h3>
+        <ul class="space-y-2">
+          <li><a href="" class="hover:text-yellow-400">BAB 1</a></li>
+          <li><a href="" class="hover:text-yellow-400">BAB 2</a></li>
+          <li><a href="#" class="hover:text-yellow-400">BAB 3</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="text-lg font-medium text-gray-200">Semester 2</h3>
+        <ul class="space-y-2">
+          <li><a href="#" class="hover:text-yellow-400">BAB 5</a></li>
+          <li><a href="#" class="hover:text-yellow-400">BAB 6</a></li>
+          <li><a href="#" class="hover:text-yellow-400">BAB 7</a></li>
+          <li><a href="#" class="hover:text-yellow-400">BAB 8</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Media Sosial -->
+  <div class="space-y-4 text-center lg:text-left">
+    <h2 class="text-xl font-semibold text-yellow-400">Media Sosial</h2>
+    <p class="text-sm">Ikuti kami di:</p>
+    <a href="https://www.instagram.com/muhamadridwan17_/" class="text-yellow-400 hover:text-yellow-600 text-3xl">
+      <i class="fab fa-instagram"></i>
+    </a>
+  </div>
+</div>
+
+<!-- Pesan peringatan -->
+  <div id="warning-message" class="warning-message">
+      Eitsssss, mau copy yaa? hayyuk
+  </div>
+
+<style>
+  /* Gaya untuk pesan peringatan */
+      .warning-message {
+          position: fixed;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          padding: 20px;
+          background-color: rgba(0, 0, 0, 0.8);
+          color: white;
+          font-size: 18px;
+          border-radius: 10px;
+          z-index: 9999;
+          display: none;
+      }
+  </style>
+
+  <script>
+  // Menangani peristiwa copy
+  document.addEventListener('copy', function (e) {
+      e.preventDefault();
+      showWarningMessage();
+  });
+
+  // Menangani peristiwa cut (menyalin dan menghapus)
+  document.addEventListener('cut', function (e) {
+      e.preventDefault();
+      showWarningMessage();
+  });
+
+  // Menangani klik kanan (context menu)
+  document.addEventListener('contextmenu', function (e) {
+      e.preventDefault();
+      showWarningMessage();
+  });
+
+  // Fungsi untuk menampilkan pesan peringatan
+  function showWarningMessage() {
+      const warningMessage = document.getElementById('warning-message');
+      warningMessage.style.display = 'block';
+
+      // Menyembunyikan pesan setelah 2 detik
+      setTimeout(function() {
+          warningMessage.style.display = 'none';
+      }, 2000);
+  }
+
+  // Blokir pintasan keyboard untuk membuka DevTools (Ctrl+Shift+I, F12, Ctrl+Shift+J, atau Ctrl+U)
+  document.addEventListener('keydown', function (e) {
+      // Cek untuk pintasan yang sering digunakan untuk membuka DevTools
+      if (
+          (e.ctrlKey && e.shiftKey && e.key === 'I') || // Ctrl+Shift+I
+          (e.key === 'F12') || // F12
+          (e.ctrlKey && e.shiftKey && e.key === 'J') || // Ctrl+Shift+J
+          (e.ctrlKey && e.key === 'U') // Ctrl+U
+      ) {
+          e.preventDefault(); // Blokir tindakan default
+          showWarningMessage(); // Tampilkan pesan peringatan
+      }
+  });
+  </script>
+  
+</body>
+</html>
